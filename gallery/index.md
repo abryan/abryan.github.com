@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Gallery"
+group: navigation
 ---
 {% include JB/setup %}
 
